@@ -31,8 +31,6 @@ const Login = (props) => {
     isValid: null,
   });
 
-  
-
   // useEffect(() => {
   //   console.log("effect running");
   //   return ()=>{
